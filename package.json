@@ -1,0 +1,16 @@
+{
+"name": "ok-vip-777",
+"theme": "ok vip 777",
+"version": "9.7.9",
+"description": "ok vip 777 ทางเข้าเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
+"keywords": [
+"ok vip 777",
+"ok vip 777 เครดิตฟรี",
+"ok vip 777 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ok-vip-777",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
